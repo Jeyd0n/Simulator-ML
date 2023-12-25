@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/ca23db14b5074e90ab52b29459f2db24/artifacts
+end_time: 1703274007602
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: ca23db14b5074e90ab52b29459f2db24
+run_name: victorious-newt-630
+run_uuid: ca23db14b5074e90ab52b29459f2db24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703274004643
+status: 3
+tags: []
+user_id: vladimir

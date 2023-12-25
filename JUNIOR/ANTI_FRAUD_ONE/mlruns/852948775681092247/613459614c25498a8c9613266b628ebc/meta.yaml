@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/613459614c25498a8c9613266b628ebc/artifacts
+end_time: 1703273972144
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: 613459614c25498a8c9613266b628ebc
+run_name: abrasive-kit-807
+run_uuid: 613459614c25498a8c9613266b628ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703273969726
+status: 3
+tags: []
+user_id: vladimir

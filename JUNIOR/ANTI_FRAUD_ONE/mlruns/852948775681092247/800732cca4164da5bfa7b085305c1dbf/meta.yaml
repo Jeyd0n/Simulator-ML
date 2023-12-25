@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/800732cca4164da5bfa7b085305c1dbf/artifacts
+end_time: 1703273969723
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: 800732cca4164da5bfa7b085305c1dbf
+run_name: judicious-bee-730
+run_uuid: 800732cca4164da5bfa7b085305c1dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703273949826
+status: 3
+tags: []
+user_id: vladimir

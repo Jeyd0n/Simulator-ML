@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/c3d231704558432fb1804d0f51f3b90c/artifacts
+end_time: 1703273928377
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: c3d231704558432fb1804d0f51f3b90c
+run_name: carefree-colt-80
+run_uuid: c3d231704558432fb1804d0f51f3b90c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703273925670
+status: 3
+tags: []
+user_id: vladimir

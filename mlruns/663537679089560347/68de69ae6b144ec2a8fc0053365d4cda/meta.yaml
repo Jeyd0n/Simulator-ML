@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/mlruns/663537679089560347/68de69ae6b144ec2a8fc0053365d4cda/artifacts
+end_time: 1703271333122
+entry_point_name: ''
+experiment_id: '663537679089560347'
+lifecycle_stage: active
+run_id: 68de69ae6b144ec2a8fc0053365d4cda
+run_name: awesome-fly-128
+run_uuid: 68de69ae6b144ec2a8fc0053365d4cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703271333106
+status: 3
+tags: []
+user_id: vladimir

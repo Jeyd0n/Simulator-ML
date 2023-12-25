@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1703274065134
+current_stage: None
+description: null
+last_updated_timestamp: 1703274065134
+name: antifraud-default
+run_id: b52ee2b538854a85b7c58103732199ff
+run_link: null
+source: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/b52ee2b538854a85b7c58103732199ff/artifacts/antifraud-default
+status: READY
+status_message: null
+storage_location: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/b52ee2b538854a85b7c58103732199ff/artifacts/antifraud-default
+user_id: null
+version: 14

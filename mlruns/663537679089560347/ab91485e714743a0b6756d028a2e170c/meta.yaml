@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/mlruns/663537679089560347/ab91485e714743a0b6756d028a2e170c/artifacts
+end_time: 1703271496530
+entry_point_name: ''
+experiment_id: '663537679089560347'
+lifecycle_stage: active
+run_id: ab91485e714743a0b6756d028a2e170c
+run_name: salty-rook-359
+run_uuid: ab91485e714743a0b6756d028a2e170c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703271496515
+status: 3
+tags: []
+user_id: vladimir

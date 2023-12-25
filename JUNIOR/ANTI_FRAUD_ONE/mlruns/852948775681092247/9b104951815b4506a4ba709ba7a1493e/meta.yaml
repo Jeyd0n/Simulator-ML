@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/9b104951815b4506a4ba709ba7a1493e/artifacts
+end_time: 1703273186428
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: 9b104951815b4506a4ba709ba7a1493e
+run_name: enthused-kite-410
+run_uuid: 9b104951815b4506a4ba709ba7a1493e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703273183718
+status: 3
+tags: []
+user_id: vladimir

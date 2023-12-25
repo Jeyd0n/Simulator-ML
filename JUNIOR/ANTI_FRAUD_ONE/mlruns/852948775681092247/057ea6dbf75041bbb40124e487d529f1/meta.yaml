@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/057ea6dbf75041bbb40124e487d529f1/artifacts
+end_time: 1703273241406
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: 057ea6dbf75041bbb40124e487d529f1
+run_name: dashing-deer-692
+run_uuid: 057ea6dbf75041bbb40124e487d529f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703273238662
+status: 3
+tags: []
+user_id: vladimir

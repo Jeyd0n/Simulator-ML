@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/f211fc2a12344d5f81534cc340313804/artifacts
+end_time: 1703273930188
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: f211fc2a12344d5f81534cc340313804
+run_name: thundering-fawn-745
+run_uuid: f211fc2a12344d5f81534cc340313804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703273928380
+status: 3
+tags: []
+user_id: vladimir

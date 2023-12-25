@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/5963996a8e034a50ba6475a9f06f1fdc/artifacts
+end_time: 1703273914617
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: 5963996a8e034a50ba6475a9f06f1fdc
+run_name: efficient-grub-95
+run_uuid: 5963996a8e034a50ba6475a9f06f1fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703273911728
+status: 3
+tags: []
+user_id: vladimir

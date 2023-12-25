@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimir/Desktop/GitHub/Simulator-ML/JUNIOR/ANTI_FRAUD_ONE/mlruns/852948775681092247/c9c36b201951484b8bae2b46a1a215ff/artifacts
+end_time: 1703274009506
+entry_point_name: ''
+experiment_id: '852948775681092247'
+lifecycle_stage: active
+run_id: c9c36b201951484b8bae2b46a1a215ff
+run_name: unruly-gnat-205
+run_uuid: c9c36b201951484b8bae2b46a1a215ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703274007605
+status: 3
+tags: []
+user_id: vladimir
